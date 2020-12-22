@@ -5,7 +5,15 @@ I have used different machine learning algorithm such as Support Vector Machine 
 Results:
 
 ![](results/1.PNG)
+
+
 ![](results/2.PNG)
+
+
 ![](results/3.PNG)
+
+
 ![](results/5.PNG)
+
+
 ![](results/4.PNG)
